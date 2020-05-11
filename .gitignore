@@ -19,7 +19,7 @@
 
 /app/cache/*
 !/app/cache/.gitkeep
-
+/.github/
 /app/config/local*.php
 /app/config/config_local.php
 /app/config/paths_local.php
